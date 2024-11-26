@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programs\\Practic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010FB86B-24F5-26CB-D25F-C2A8D7B56FC2}|Assembly-CSharp.csproj|c:\\programs\\practic\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FB86B-24F5-26CB-D25F-C2A8D7B56FC2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Programs\\Practic\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "C:\\Programs\\Practic\\Assets\\Script\\PlayerController.cs*",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:32:45.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
